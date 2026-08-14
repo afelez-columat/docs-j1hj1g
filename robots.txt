@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-xn5f5w.date-me.pro/sitemap.xml
